@@ -5,7 +5,7 @@
 **Attributes** | | **Methods**
 :--- | ---: | :---
 [everyone](./everyone) | `cls` | [AllowedMentions.all](./AllowedMentions.all)
-[replied_user](./replied_user) | `cls` | AllowedMentions.none
+[replied_user](./replied_user) | `cls` | [AllowedMentions.none](./AllowedMentions.none)
 [roles](./roles) | |
 [users](./users) | |
 

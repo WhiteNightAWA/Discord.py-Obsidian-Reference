@@ -4,4 +4,5 @@ The allowed mention configuration.
 *New in version 1.4.*
 
 - **Type**
+
 	- Optional[ [AllowedMentions](discord/Data%20Classes/AllowedMentions/AllowedMentions) ]
