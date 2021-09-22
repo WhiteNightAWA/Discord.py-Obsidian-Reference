@@ -1,0 +1,1 @@
+### shard_count [](https://discordpy.readthedocs.io/en/stable/api.html#discord.ShardInfo.shard_count)

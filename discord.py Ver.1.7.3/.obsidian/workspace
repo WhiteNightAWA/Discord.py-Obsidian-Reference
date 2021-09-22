@@ -1,139 +1,83 @@
 {
   "main": {
-    "id": "a017c3b939bfd7fc",
+    "id": "16e03060d31f6854",
     "type": "split",
     "children": [
       {
-        "id": "0d191aea3a0800a5",
-        "type": "split",
-        "children": [
-          {
-            "id": "024dc26652ba4955",
-            "type": "split",
-            "dimension": 54.955752212389385,
-            "children": [
-              {
-                "id": "1588fce9714e95de",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "discord/Data Classes/Data Classes.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "06981d5f5bc2a992"
-              },
-              {
-                "id": "d822237a850b2a9c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "discord/Data Classes/Data Classes.md",
-                    "mode": "preview"
-                  }
-                },
-                "group": "06981d5f5bc2a992"
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "6fdafbe84e3a8f15",
-            "type": "leaf",
-            "dimension": 45.04424778761062,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "69d8d28341cc95ac",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a1ea49c903d74cb8",
-    "type": "split",
+    "id": "309746a4c8f63a10",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4ab026e78450a761",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c8a291c61988b7e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0efa6e39e664807",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "252bdf17ef31e82a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9f4940f5fc51408d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "stable",
+            "matchingCase": true,
+            "explainSearch": true,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "1e5c7dff787bfa52",
-    "type": "split",
+    "id": "e84703721dd2d8d6",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "78223cc98ba13a8c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5126b29340154f9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "discord/Data Classes/Data Classes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "d2914d5fc1bb7c30",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "1588fce9714e95de",
+  "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
-    "discord/Data Classes/Data Classes.md",
-    "discord/Discord Models/Untitled.md",
-    "discord/Discord Models.md",
-    "discord/Clients/Client/allowed_mentions.md",
-    "discord/Data Classes/Untitled.md",
-    "discord/Clients/Client/Client.md",
-    "discord/Clients/Client/Untitled.md",
-    "discord/Clients/Client/voice_clients.md",
+    "Enumerations/Enumerations.md",
+    "discord/Version Related Info.md",
     "discord/Voice Related/VoiceClient/VoiceClient.md",
-    "discord/Voice Related/VoiceClient/Untitled.md"
+    "discord/Voice Related/VoiceProtocol/VoiceProtocol.md",
+    "discord/Voice Related/Voice Related.md",
+    "discord/API Reference.md",
+    "discord/Utility Functions/Utility Functions.md",
+    "discord/Utility Functions/find.md",
+    "discord/Exceptions/Exception Hierarchy.md",
+    "discord/Exceptions/Forbidden.md"
   ]
 }

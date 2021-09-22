@@ -1,4 +1,4 @@
-## `await` read [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Asset.read)
+### `await` read [](https://discordpy.readthedocs.io/en/stable/api.html#discord.Asset.read)
 
 This function is a [_coroutine_](https://docs.python.org/3/library/asyncio-task.html#coroutine).
 
@@ -12,11 +12,15 @@ _New in version 1.1._
 - **Raises**
 
 	- [DiscordException](discord/Exceptions/DiscordException) – There was no valid URL or internal connection state.
+
 	- [HTTPException](discord/Exceptions/HTTPException) – Downloading the asset failed.
+
 	- [NotFound](discord/Exceptions/NotFound) – The asset was deleted.
 
 - **Returns**
+
 	- The content of the asset.
 
 - **Return type**
+
 	- [bytes](https://docs.python.org/3/library/stdtypes.html#bytes)

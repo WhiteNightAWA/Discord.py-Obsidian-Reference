@@ -1,4 +1,4 @@
-## private_channels [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.private_channels)
+### private_channels [](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.private_channels)
 The private channels that the connected client is participating on.
 
 > ### Note

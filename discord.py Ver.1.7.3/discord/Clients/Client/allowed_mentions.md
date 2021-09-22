@@ -1,4 +1,4 @@
-## allowed_mentions [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.allowed_mentions)
+### allowed_mentions [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.Client.allowed_mentions)
 The allowed mention configuration.
 
 *New in version 1.4.*

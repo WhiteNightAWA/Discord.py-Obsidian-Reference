@@ -1,1 +1,1 @@
-## VoiceProtocol [¶](https://discordpy.readthedocs.io/en/stable/api.html#voiceprotocol)
+## VoiceProtocol [](https://discordpy.readthedocs.io/en/stable/api.html#voiceprotocol)

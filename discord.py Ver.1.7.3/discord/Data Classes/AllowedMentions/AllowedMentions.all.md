@@ -1,4 +1,4 @@
-## `classmethod` all () [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.AllowedMentions.all)
+### `classmethod` all () [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.AllowedMentions.all)
 
 A factory method that returns a [AllowedMentions](./AllowedMentions) with all fields explicitly set to `True`
 

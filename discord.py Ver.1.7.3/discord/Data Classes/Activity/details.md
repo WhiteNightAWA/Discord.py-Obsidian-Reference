@@ -1,4 +1,4 @@
-## details [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Activity.details)
+### details [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.Activity.details)
 
 The detail of the user’s current activity.
 

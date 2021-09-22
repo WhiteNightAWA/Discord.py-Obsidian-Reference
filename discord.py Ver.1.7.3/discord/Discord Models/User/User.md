@@ -1,1 +1,1 @@
-# User [¶](https://discordpy.readthedocs.io/en/stable/api.html#id7)
+## User [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#id7)

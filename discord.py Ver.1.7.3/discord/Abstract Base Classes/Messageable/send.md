@@ -1,0 +1,1 @@
+### send[](https://discordpy.readthedocs.io/en/stable/api.html#discord.abc.Messageable.send)

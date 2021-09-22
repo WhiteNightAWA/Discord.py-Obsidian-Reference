@@ -1,4 +1,12 @@
-# Activity [¶](https://discordpy.readthedocs.io/en/stable/api.html#activity)
+## Activity [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#activity)
+
+Represents an activity in Discord.
+
+This could be an activity such as streaming, playing, listening or watching.
+
+For memory optimisation purposes, some activities are offered in slimmed down versions:
+- [Game]
+- [Streaming]
 ****
 > `class` discord.**Activity**(**kwargs)
 
@@ -20,11 +28,3 @@ state |
 timestamps |
 type |
 url |
-
-Represents an activity in Discord.
-
-This could be an activity such as streaming, playing, listening or watching.
-
-For memory optimisation purposes, some activities are offered in slimmed down versions:
-- Game
-- Streaming

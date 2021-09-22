@@ -1,4 +1,4 @@
-## url [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.PartialEmoji.url)
+### url [](https://discordpy.readthedocs.io/en/stable/api.html#discord.PartialEmoji.url)
 
 Returns the asset of the emoji, if it is custom.
 

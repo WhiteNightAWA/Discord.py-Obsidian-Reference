@@ -1,1 +1,1 @@
-# PrivateChannel [¶](https://discordpy.readthedocs.io/en/stable/api.html#privatechannel)
+## PrivateChannel [](https://discordpy.readthedocs.io/en/stable/api.html#privatechannel)

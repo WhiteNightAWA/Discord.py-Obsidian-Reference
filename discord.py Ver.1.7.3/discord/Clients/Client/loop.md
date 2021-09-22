@@ -1,4 +1,4 @@
-## loop [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.loop)
+### loop [](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.loop)
 The event loop that the client uses for HTTP requests and websocket operations.
 
 - **Type**

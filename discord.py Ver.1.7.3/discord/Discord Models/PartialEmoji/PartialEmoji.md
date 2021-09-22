@@ -1,4 +1,4 @@
-# PartialEmoji [¶](https://discordpy.readthedocs.io/en/stable/api.html#partialemoji)
+## PartialEmoji [](https://discordpy.readthedocs.io/en/stable/api.html#partialemoji)
 ****
 > `class` discord.**PartialEmoji**
 

@@ -1,1 +1,1 @@
-# Intents [¶](https://discordpy.readthedocs.io/en/stable/api.html#intents)
+## Intents [](https://discordpy.readthedocs.io/en/stable/api.html#intents)

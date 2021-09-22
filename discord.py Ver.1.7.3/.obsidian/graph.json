@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:\"discord/Discord Models\"",
+      "query": "path:\"discord/Application Info\"",
       "color": {
         "a": 1,
-        "rgb": 11259492
+        "rgb": 11657298
       }
     },
     {
-      "query": "path:\"discord/Data Classes\"",
+      "query": "path:\"discord/Event Reference\"",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -50,30 +50,51 @@
       }
     },
     {
-      "query": "path:discord",
+      "query": "path:\"discord/Discord Models\"",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "path:\"discord/Voice Related\"",
+      "query": "path:\"discord/Utility Functions\"",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "path:\"discord/Data Classes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"discord/Voice Related\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:discord",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.78034188034188,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4086160398292857,
+  "scale": 0.6907804583553965,
   "close": false
 }

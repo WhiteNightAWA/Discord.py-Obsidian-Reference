@@ -1,4 +1,4 @@
-## animated [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.PartialEmoji.animated)
+### animated [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.PartialEmoji.animated)
 
 Whether the emoji is animated or not.
 

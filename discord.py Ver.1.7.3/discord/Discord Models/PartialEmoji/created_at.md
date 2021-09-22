@@ -1,4 +1,4 @@
-## created_at [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.PartialEmoji.created_at)
+### created_at [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.PartialEmoji.created_at)
 
 Returns the emoji’s creation time in UTC, or None if Unicode emoji.
 

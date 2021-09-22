@@ -1,1 +1,1 @@
-# Emoji [¶](https://discordpy.readthedocs.io/en/stable/api.html#emoji)
+## Emoji [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#emoji)

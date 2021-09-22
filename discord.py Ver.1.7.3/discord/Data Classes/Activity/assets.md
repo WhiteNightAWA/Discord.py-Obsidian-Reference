@@ -1,4 +1,4 @@
-## assets [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Activity.assets)
+### assets [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.Activity.assets)
 
 A dictionary representing the images and their hover text of an activity. It contains the following optional keys:
 

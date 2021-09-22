@@ -1,4 +1,4 @@
-## cached_messages [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.cached_messages)
+### cached_messages [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.Client.cached_messages)
 Read-only list of messages the connected client has cached.
 
 *New in version 1.1.*

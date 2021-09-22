@@ -1,4 +1,4 @@
-## activity [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.activity)
+### activity [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.Client.activity)
  
 The activity being used upon logging in.
  

@@ -1,4 +1,4 @@
-# Asset [¶](https://discordpy.readthedocs.io/en/stable/api.html#asset)
+## Asset [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#asset)
 ****
 > `class` discord.Asset
 

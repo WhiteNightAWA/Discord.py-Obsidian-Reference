@@ -1,4 +1,4 @@
-## created_at [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.BaseActivity.created_at)
+### created_at [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.BaseActivity.created_at)
 
 When the user started doing this activity in UTC.
 
