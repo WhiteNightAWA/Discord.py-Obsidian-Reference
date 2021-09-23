@@ -22,24 +22,38 @@
       }
     },
     {
-      "query": "path:\"discord/Discord Models\"",
+      "query": "path:\"discord/Data Classes\"",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"discord/Data Classes\"",
+      "query": "path:\"discord/Discord Models\"",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:discord",
+      "query": "path:\"discord/Abstract Base Classes\"",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:discord",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:discord.ext",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.41821646938557344,
+  "scale": 0.512150381230013,
   "close": false
 }

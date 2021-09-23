@@ -1,0 +1,1 @@
+# Context [](https://discordpy.readthedocs.io/en/v1.7.3/ext/commands/api.html#discord.ext.commands.Context)
