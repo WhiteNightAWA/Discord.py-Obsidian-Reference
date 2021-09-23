@@ -10,16 +10,16 @@
           {
             "id": "65eb24cd75b77921",
             "type": "split",
-            "dimension": 28.313253012048197,
+            "dimension": 62.75100401606426,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
                 "type": "leaf",
-                "dimension": 56.10820244328097,
+                "dimension": 50.78534031413613,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Clients/Client/wait_until_ready.md",
+                    "file": "discord/Clients/AutoShardedClient/AutoShardedClient.md",
                     "mode": "source"
                   }
                 },
@@ -28,11 +28,11 @@
               {
                 "id": "bc144db1ab903f21",
                 "type": "leaf",
-                "dimension": 43.89179755671902,
+                "dimension": 49.21465968586388,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Clients/Client/wait_until_ready.md",
+                    "file": "discord/Clients/AutoShardedClient/AutoShardedClient.md",
                     "mode": "preview"
                   }
                 },
@@ -44,7 +44,7 @@
           {
             "id": "a17a9a4dece72a18",
             "type": "leaf",
-            "dimension": 71.6867469879518,
+            "dimension": 37.24899598393574,
             "state": {
               "type": "graph",
               "state": {}
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AllowedMentions",
+                "query": "ShardInfo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "discord/Clients/AutoShardedClient/AutoShardedClient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a17a9a4dece72a18",
+  "active": "bc144db1ab903f21",
   "lastOpenFiles": [
-    "discord/Clients/Client/allowed_mentions.md",
-    "discord/Clients/Client/wait_until_ready.md",
-    "discord/Clients/Client/activity.md",
-    "discord/Clients/Client/Client.md",
-    "discord/Clients/Client/wait_for.md",
-    "discord/Clients/Client/request_offline_members.md",
-    "discord/Clients/Client/run.md",
-    "discord/Clients/Client/start.md",
-    "discord/Clients/Client/on_error.md",
-    "discord/Clients/Client/logout.md"
+    "discord/Clients/AutoShardedClient/AutoShardedClient.md",
+    "discord/Clients/AutoShardedClient/request_offline_members.md",
+    "discord/Clients/AutoShardedClient/is_ws_ratelimited.md",
+    "discord/Clients/AutoShardedClient/get_shard.md",
+    "discord/Clients/AutoShardedClient/connect.md",
+    "discord/Clients/AutoShardedClient/close.md",
+    "discord/Clients/AutoShardedClient/change_presence.md",
+    "discord/Enumerations/Status.md",
+    "discord/Clients/AutoShardedClient/shards.md",
+    "discord/Clients/AutoShardedClient/shard_ids.md"
   ]
 }

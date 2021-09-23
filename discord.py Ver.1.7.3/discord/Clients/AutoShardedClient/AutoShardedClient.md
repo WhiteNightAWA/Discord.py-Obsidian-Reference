@@ -14,10 +14,10 @@ If a `shard_ids` parameter is given, then those shard IDs will be used to launch
 
 **Attributes** | | **Methods**
 :--- | ---: | :---
-[latencies]() | `async` | change_presence
-latency | `async` | close
-shard_ids | `async` | connect
-shards | `def` | get_shard
-|| `def` | is_ws_ratelimited
-|| `async` | request_offline_members
+[latencies](discord/Clients/AutoShardedClient/latencies) | `async` | [change_presence](discord/Clients/AutoShardedClient/change_presence)
+[latency](discord/Clients/AutoShardedClient/latency) | `async` | [close](discord/Clients/AutoShardedClient/close)
+[shard_ids](discord/Clients/AutoShardedClient/shard_ids) | `async` | [connect](discord/Clients/AutoShardedClient/connect)
+[shards](discord/Clients/AutoShardedClient/shards) | `def` | [get_shard](discord/Clients/AutoShardedClient/get_shard)
+|| `def` | [is_ws_ratelimited](discord/Clients/AutoShardedClient/is_ws_ratelimited)
+|| `async` | [request_offline_members](discord/Clients/AutoShardedClient/request_offline_members)
 
