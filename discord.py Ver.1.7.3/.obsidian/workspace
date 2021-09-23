@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Abstract Base Classes/Snowflake/Snowflake.md",
+                    "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
                     "mode": "source"
                   }
                 },
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Abstract Base Classes/Snowflake/Snowflake.md",
+                    "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
                     "mode": "preview"
                   }
                 },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Abstract Base Classes/Snowflake/Snowflake.md",
+                "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
-    "discord/Abstract Base Classes/Snowflake/Snowflake.md",
-    "discord/Abstract Base Classes/snowflake/id.md",
-    "discord/Abstract Base Classes/snowflake/created_at.md",
     "discord/Abstract Base Classes/Abstract Base Classes.md",
-    "discord/Abstract Base Classes/GuildChannel/GuildChannel.md",
-    "discord/Clients/AutoShardedClient/AutoShardedClient.md",
-    "discord/Clients/AutoShardedClient/request_offline_members.md",
-    "discord/Clients/AutoShardedClient/is_ws_ratelimited.md",
-    "discord/Clients/AutoShardedClient/get_shard.md",
-    "discord/Clients/AutoShardedClient/connect.md"
+    "discord/Abstract Base Classes/User/User.md",
+    "discord/Abstract Base Classes/User/name.md",
+    "discord/Abstract Base Classes/User/mention.md",
+    "discord/Abstract Base Classes/User/display_name.md",
+    "discord/Abstract Base Classes/User/discriminator.md",
+    "discord/Abstract Base Classes/User/bot.md",
+    "discord/Abstract Base Classes/User/avatar.md",
+    "discord/Discord Models/Asset/save.md",
+    "discord/Discord Models/Member/Member.md"
   ]
 }
