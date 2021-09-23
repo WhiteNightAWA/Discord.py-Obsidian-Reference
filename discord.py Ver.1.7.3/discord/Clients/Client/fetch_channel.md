@@ -4,7 +4,7 @@ This function is a [coroutine](https://discordpy.readthedocs.io/en/v1.7.3/api.ht
 Retrieves a [abc.GuildChannel](discord/Abstract%20Base%20Classes/GuildChannel/GuildChannel) or abc.PrivateChannel with the specified ID.
 
 > ### Note
-> This method is an API call. For general usage, consider [get_channel()](./get_channel) instead.
+> This method is an API call. For general usage, consider [get_channel()](discord/Clients/Client/get_channel) instead.
 
 _New in version 1.2._
 

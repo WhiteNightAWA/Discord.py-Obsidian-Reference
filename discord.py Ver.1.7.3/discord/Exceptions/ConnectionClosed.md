@@ -1,4 +1,4 @@
-## `exception` discord.**ConnectionClosed**(_socket_, _*_, _shard_id_, _code=None_) [¶](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.ConnectionClosed)
+## `exception` discord.**ConnectionClosed**(_socket_, _\*_, _shard\_id_, _code=None_) [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.ConnectionClosed)
 
 Exception that’s thrown when the gateway connection is closed for reasons that could not be handled internally.
 

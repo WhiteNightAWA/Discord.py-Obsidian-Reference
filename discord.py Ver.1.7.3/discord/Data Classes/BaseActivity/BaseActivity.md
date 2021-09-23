@@ -17,4 +17,4 @@ _New in version 1.3._
 
 Attributes| 
 ---| 
-[create_at](./create_at) | 
+[create_at](discord/Data%20Classes/BaseActivity/create_at) | 

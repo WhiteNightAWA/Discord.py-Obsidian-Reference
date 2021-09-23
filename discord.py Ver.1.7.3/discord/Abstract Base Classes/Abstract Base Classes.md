@@ -3,9 +3,9 @@ An [abstract base class](https://docs.python.org/3/glossary.html#term-abstract-b
 
 This library has a module related to abstract base classes, some of which are actually from the [abc](https://docs.python.org/3/library/abc.html) standard module, others which are not.
 ****
-- [Snowflake](./Snowflake/Snowflake)
-- [User](./User/User)
-- [PrivateChannel](./PrivateChannel/PrivateChannel)
-- [GuildChannel](./GuildChannel/GuildChannel)
-- [Messageable](./Messageable/Messageable)
-- [Connectable](./Connectable/Connectable)
+- [Snowflake](discord/Abstract%20Base%20Classes/Snowflake/Snowflake)
+- [User](discord/Abstract%20Base%20Classes/User/User)
+- [PrivateChannel](discord/Abstract%20Base%20Classes/PrivateChannel/PrivateChannel)
+- [GuildChannel](discord/Abstract%20Base%20Classes/GuildChannel/GuildChannel)
+- [Messageable](discord/Abstract%20Base%20Classes/Messageable/Messageable)
+- [Connectable](discord/Abstract%20Base%20Classes/Connectable/Connectable)

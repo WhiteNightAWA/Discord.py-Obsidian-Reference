@@ -1,5 +1,5 @@
 ### url\_as (_\*_, _format=None_, _static_format='png'_) [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.PartialEmoji.url_as)
-Returns an [Asset](../Asset/Asset) for the emoji’s url, if it is custom.
+Returns an [Asset](discord/Discord%20Models/Asset/Asset) for the emoji’s url, if it is custom.
 
 The format must be one of ‘webp’, ‘jpeg’, ‘jpg’, ‘png’ or ‘gif’. ‘gif’ is only valid for animated emojis.
 
@@ -22,5 +22,5 @@ The format must be one of ‘webp’, ‘jpeg’, ‘jpg’, ‘png’ or ‘gif
 
 - **Return type**
 
-	- [Asset](../Asset/Asset)
+	- [Asset](discord/Discord%20Models/Asset/Asset)
 

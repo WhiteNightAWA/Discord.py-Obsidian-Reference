@@ -4,80 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "69d8d28341cc95ac",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "b589009cb042b83d",
+        "type": "split",
+        "children": [
+          {
+            "id": "65eb24cd75b77921",
+            "type": "split",
+            "dimension": 28.313253012048197,
+            "children": [
+              {
+                "id": "69d8d28341cc95ac",
+                "type": "leaf",
+                "dimension": 56.10820244328097,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "discord/Clients/Client/wait_until_ready.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "7acf75ce93ac011c"
+              },
+              {
+                "id": "bc144db1ab903f21",
+                "type": "leaf",
+                "dimension": 43.89179755671902,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "discord/Clients/Client/wait_until_ready.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "7acf75ce93ac011c"
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "a17a9a4dece72a18",
+            "type": "leaf",
+            "dimension": 71.6867469879518,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "309746a4c8f63a10",
-    "type": "mobile-drawer",
+    "id": "df2874de6d90100a",
+    "type": "split",
     "children": [
       {
-        "id": "252bdf17ef31e82a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "9f4940f5fc51408d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "stable",
-            "matchingCase": true,
-            "explainSearch": true,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d1547f0d1eab49fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbcb4b2ef06e1771",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb9763309c130156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "AllowedMentions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "e84703721dd2d8d6",
-    "type": "mobile-drawer",
+    "id": "126428805459837d",
+    "type": "split",
     "children": [
       {
-        "id": "d2914d5fc1bb7c30",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "cdfb3a5cea59156c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d74d980bb39a5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "69d8d28341cc95ac",
+  "active": "a17a9a4dece72a18",
   "lastOpenFiles": [
-    "Enumerations/Enumerations.md",
-    "discord/Version Related Info.md",
-    "discord/Voice Related/VoiceClient/VoiceClient.md",
-    "discord/Voice Related/VoiceProtocol/VoiceProtocol.md",
-    "discord/Voice Related/Voice Related.md",
-    "discord/API Reference.md",
-    "discord/Utility Functions/Utility Functions.md",
-    "discord/Utility Functions/find.md",
-    "discord/Exceptions/Exception Hierarchy.md",
-    "discord/Exceptions/Forbidden.md"
+    "discord/Clients/Client/allowed_mentions.md",
+    "discord/Clients/Client/wait_until_ready.md",
+    "discord/Clients/Client/activity.md",
+    "discord/Clients/Client/Client.md",
+    "discord/Clients/Client/wait_for.md",
+    "discord/Clients/Client/request_offline_members.md",
+    "discord/Clients/Client/run.md",
+    "discord/Clients/Client/start.md",
+    "discord/Clients/Client/on_error.md",
+    "discord/Clients/Client/logout.md"
   ]
 }

@@ -6,4 +6,4 @@ This is equivalent to calling url_as() with the default parameters (i.e. png/gif
 
 - **Type**
 
-	- [Asset](../Asset/Asset)
+	- [Asset](discord/Discord%20Models/Asset/Asset)

@@ -1,5 +1,5 @@
-# Application Info[](https://discordpy.readthedocs.io/en/v1.7.3/api.html#application-info)
+# Application Info [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#application-info)
 ****
-- [AppInfo](AppInfo.md)
-- [Team](./Team/Team)
-- [TeamMember](./TeamMember/TeamMember)
+- [AppInfo](discord/Application%20Info/AppInfo/AppInfo)
+- [Team](discord/Application%20Info/Team/Team)
+- [TeamMember](discord/Application%20Info/TeamMember/TeamMember)

@@ -4,5 +4,5 @@ The emoji that belongs to this activity.
 
 - **Type**
 
-	- Optional\[ [PartialEmoji](discord/Discord%20Models/PartialEmoji/PartialEmoji) ]
+	- Optional[ [PartialEmoji](discord/Discord%20Models/PartialEmoji/PartialEmoji) ]
 

@@ -1,4 +1,4 @@
-## `exception` discord.**PrivilegedIntentsRequired**(_shard_id_) [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.PrivilegedIntentsRequired)
+## `exception` discord.**PrivilegedIntentsRequired**(_shard_id_) [](https://discordpy.readthedocs.io/en/stable/api.html#discord.PrivilegedIntentsRequired)
 Exception that’s thrown when the gateway is requesting privileged intents but they’re not ticked in the developer page yet.
 
 Go to https://discord.com/developers/applications/ and enable the intents that are required. Currently these are as follows:

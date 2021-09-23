@@ -8,7 +8,7 @@ Retrieves a [Guild](discord/Discord%20Models/Guild/Guild) from an ID.
 
 > ### Note
 > This method is an API call.
-> For general usage, consider [get_guild()](./get_guild) instead.
+> For general usage, consider [get_guild()](discord/Clients/Client/get_guild) instead.
 
 - **Parameters**
 

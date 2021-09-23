@@ -12,10 +12,10 @@ For memory optimisation purposes, some activities are offered in slimmed down ve
 
 **Attributes** |
 ---|
-[application_id](./application_id) |
-[assets](./assets) |
-[details](./details) |
-[emoji](./emoji) |
+[application_id](discord/Data%20Classes/Activity/application_id) |
+[assets](discord/Data%20Classes/Activity/assets) |
+[details](discord/Data%20Classes/Activity/details) |
+[emoji](discord/Data%20Classes/Activity/emoji) |
 end |
 large_image_text |
 large_image_url |

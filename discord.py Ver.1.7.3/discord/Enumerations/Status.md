@@ -1,4 +1,4 @@
-## `class` discord.**Status** [¶](https://discordpy.readthedocs.io/en/stable/api.html#discord.Status)
+## `class` discord.**Status** [](https://discordpy.readthedocs.io/en/stable/api.html#discord.Status)
 Specifies a [Member](discord/Discord%20Models/Member/Member)'s status.
 ****
 ### online

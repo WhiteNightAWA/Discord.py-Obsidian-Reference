@@ -4,8 +4,8 @@
 
 || **Methods** 
 ---: | :---
-`async` | [read](./read)
-`async` | [save](./save)
+`async` | [read](discord/Discord%20Models/Asset/read)
+`async` | [save](discord/Discord%20Models/Asset/save)
 
 Represents a CDN asset on Discord.
 

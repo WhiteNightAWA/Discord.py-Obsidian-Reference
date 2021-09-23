@@ -4,11 +4,11 @@
 
 **Attributes** | | **Methods**
 :--- | ---: | :---
-[animated](./animated) | `def` | [is_custom_emoji](./is_custom_emoji)
-[created_at](./created_at) | `def` | [is_unicode_emoji](./is_unicode_emoji)
-[id](./id) | `def` | [url_as](./url_as)
-[name](./name) |
-[url](./url) |
+[animated](discord/Discord%20Models/PartialEmoji/animated) | `def` | [is_custom_emoji](discord/Discord%20Models/PartialEmoji/is_custom_emoji)
+[created_at](discord/Discord%20Models/PartialEmoji/created_at) | `def` | [is_unicode_emoji](discord/Discord%20Models/PartialEmoji/is_unicode_emoji)
+[id](discord/Discord%20Models/PartialEmoji/id) | `def` | [url_as](discord/Discord%20Models/PartialEmoji/url_as)
+[name](discord/Discord%20Models/PartialEmoji/name) |
+[url](discord/Discord%20Models/PartialEmoji/url) |
 
 Represents a “partial” emoji.
 

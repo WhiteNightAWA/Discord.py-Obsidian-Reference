@@ -4,7 +4,7 @@ The function is a [coroutine](https://docs.python.org/3/library/asyncio-task.htm
 Retrieves a [User](discord/Discord%20Models/User/User) based on their ID. This can only be used by bot accounts. You do not have to share any guilds with the user to get this information, however many operations do require that you do.
 
 > #### Note
-> This method is an API call. If you have [Intents.members](discord/Data%20Classes/Intents/members) and member cache enabled, consider [get_user()](./get_user) instead.
+> This method is an API call. If you have [Intents.members](discord/Data%20Classes/Intents/members) and member cache enabled, consider [get_user()](discord/Clients/Client/get_user) instead.
 
 - **Parameters**
 

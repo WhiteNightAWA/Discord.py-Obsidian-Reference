@@ -6,7 +6,7 @@ Retrieves an [AsyncIterator]() that enables receiving your guilds.
 
 > #### Note
 > This method is an API call.
-> For general usage, consider [guilds](./guilds) instead.
+> For general usage, consider [guilds](discord/Clients/Client/guilds) instead.
 
 Examples:
 

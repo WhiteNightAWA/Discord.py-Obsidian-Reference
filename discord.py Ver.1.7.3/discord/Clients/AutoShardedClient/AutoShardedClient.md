@@ -14,7 +14,7 @@ If a `shard_ids` parameter is given, then those shard IDs will be used to launch
 
 **Attributes** | | **Methods**
 :--- | ---: | :---
-[latencies] | `async` | change_presence
+[latencies]() | `async` | change_presence
 latency | `async` | close
 shard_ids | `async` | connect
 shards | `def` | get_shard

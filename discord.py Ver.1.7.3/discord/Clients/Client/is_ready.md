@@ -1,0 +1,2 @@
+### is_ready () [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.Client.is_ready)
+[bool](https://docs.python.org/3/library/functions.html#bool) : Specifies if the client’s internal cache is ready for use.

@@ -1,4 +1,4 @@
-## `exception` discord.**HTTPException**(_response_, _message_) [¶](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.HTTPException)
+## `exception` discord.**HTTPException**(_response_, _message_) [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.HTTPException)
 
 Exception that’s thrown when an HTTP request operation fails.
 
