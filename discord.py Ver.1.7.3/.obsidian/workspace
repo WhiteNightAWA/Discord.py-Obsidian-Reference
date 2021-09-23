@@ -128,14 +128,14 @@
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
     "discord/Application Info/AppInfo/AppInfo.md",
+    "discord/Application Info/AppInfo/icon_url_as.md",
+    "discord/Application Info/AppInfo/cover_image_url_as.md",
     "discord/Application Info/AppInfo/verify_key.md",
     "discord/Application Info/AppInfo/team.md",
     "discord/Application Info/Team/Team.md",
     "discord/Application Info/AppInfo/summary.md",
     "discord/Application Info/AppInfo/slug.md",
     "discord/Application Info/AppInfo/rpc_origins.md",
-    "discord/Application Info/AppInfo/primary_sku_id.md",
-    "discord/Application Info/AppInfo/owner.md",
-    "discord/Application Info/AppInfo/name.md"
+    "discord/Application Info/AppInfo/primary_sku_id.md"
   ]
 }
