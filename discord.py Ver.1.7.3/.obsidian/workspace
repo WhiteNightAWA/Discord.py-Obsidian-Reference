@@ -15,10 +15,11 @@
               {
                 "id": "69d8d28341cc95ac",
                 "type": "leaf",
+                "dimension": 51.07632093933464,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
+                    "file": "discord/Application Info/AppInfo/AppInfo.md",
                     "mode": "source"
                   }
                 },
@@ -27,10 +28,11 @@
               {
                 "id": "57ffe75df5f630be",
                 "type": "leaf",
+                "dimension": 48.92367906066536,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
+                    "file": "discord/Application Info/AppInfo/AppInfo.md",
                     "mode": "preview"
                   }
                 },
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
+                "file": "discord/Application Info/AppInfo/AppInfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +127,15 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
-    "discord/Abstract Base Classes/Abstract Base Classes.md",
-    "discord/Abstract Base Classes/Connectable/Connectable.md",
-    "discord/Abstract Base Classes/GuildChannel/GuildChannel.md",
-    "discord/Abstract Base Classes/GuildChannel/set_permissions.md",
-    "discord/Abstract Base Classes/GuildChannel/permissions_for.md",
-    "discord/Abstract Base Classes/GuildChannel/overwrites_for.md",
-    "discord/Abstract Base Classes/GuildChannel/clone.md",
-    "discord/Abstract Base Classes/GuildChannel/move.md",
-    "discord/Discord Models/Asset/save.md",
-    "discord/Abstract Base Classes/GuildChannel/invites.md"
+    "discord/Application Info/AppInfo/AppInfo.md",
+    "discord/Application Info/AppInfo/verify_key.md",
+    "discord/Application Info/AppInfo/team.md",
+    "discord/Application Info/Team/Team.md",
+    "discord/Application Info/AppInfo/summary.md",
+    "discord/Application Info/AppInfo/slug.md",
+    "discord/Application Info/AppInfo/rpc_origins.md",
+    "discord/Application Info/AppInfo/primary_sku_id.md",
+    "discord/Application Info/AppInfo/owner.md",
+    "discord/Application Info/AppInfo/name.md"
   ]
 }
