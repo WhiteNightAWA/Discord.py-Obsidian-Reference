@@ -8,4 +8,4 @@ This library has a module related to abstract base classes, some of which are ac
 - [PrivateChannel](discord/Abstract%20Base%20Classes/PrivateChannel/PrivateChannel)
 - [GuildChannel](discord/Abstract%20Base%20Classes/GuildChannel/GuildChannel)
 - [Messageable](discord/Abstract%20Base%20Classes/Messageable/Messageable)
-- [Connectable](discord/Abstract%20Base%20Classes/Connectable/Connectable)
+- [Connectable](Connectable.md)

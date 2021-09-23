@@ -4,12 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "69d8d28341cc95ac",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "e25294d3437136d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "25e67110da5a9d3d",
+            "type": "split",
+            "dimension": 62.92035398230089,
+            "children": [
+              {
+                "id": "69d8d28341cc95ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "fc4422812baf6dcf"
+              },
+              {
+                "id": "57ffe75df5f630be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "fc4422812baf6dcf"
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "4aace8012ec75460",
+            "type": "leaf",
+            "dimension": 37.07964601769911,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "discord/Abstract Base Classes/Abstract Base Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +125,15 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
+    "discord/Abstract Base Classes/Abstract Base Classes.md",
+    "discord/Abstract Base Classes/Connectable/Connectable.md",
     "discord/Abstract Base Classes/GuildChannel/GuildChannel.md",
     "discord/Abstract Base Classes/GuildChannel/set_permissions.md",
     "discord/Abstract Base Classes/GuildChannel/permissions_for.md",
     "discord/Abstract Base Classes/GuildChannel/overwrites_for.md",
-    "discord/Abstract Base Classes/Abstract Base Classes.md",
     "discord/Abstract Base Classes/GuildChannel/clone.md",
     "discord/Abstract Base Classes/GuildChannel/move.md",
     "discord/Discord Models/Asset/save.md",
-    "discord/Abstract Base Classes/GuildChannel/invites.md",
-    "discord/Abstract Base Classes/GuildChannel/delete.md"
+    "discord/Abstract Base Classes/GuildChannel/invites.md"
   ]
 }
