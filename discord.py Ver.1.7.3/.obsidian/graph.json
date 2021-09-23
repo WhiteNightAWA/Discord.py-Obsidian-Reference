@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"discord/Exceptions\"",
+      "query": "path:discord/Exceptions",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:\"discord/Data Classes\"",
+      "query": "path:\"discord/Discord Models\"",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"discord/Discord Models\"",
+      "query": "path:\"discord/Data Classes\"",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -39,7 +39,7 @@
       "query": "path:discord",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 5431473
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.497847222222222,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.41762522044088046,
+  "scale": 0.8717408006129906,
   "close": false
 }

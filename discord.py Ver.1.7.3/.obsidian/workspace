@@ -4,47 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b589009cb042b83d",
+        "id": "24370790d0287a75",
         "type": "split",
         "children": [
           {
-            "id": "65eb24cd75b77921",
+            "id": "d9fa4c07b6eb84a3",
             "type": "split",
-            "dimension": 62.75100401606426,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
                 "type": "leaf",
-                "dimension": 50.78534031413613,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Clients/AutoShardedClient/AutoShardedClient.md",
+                    "file": "discord/Abstract Base Classes/Snowflake/Snowflake.md",
                     "mode": "source"
                   }
                 },
-                "group": "7acf75ce93ac011c"
+                "group": "736471ff0f9700c3"
               },
               {
-                "id": "bc144db1ab903f21",
+                "id": "8223965fbaee5e79",
                 "type": "leaf",
-                "dimension": 49.21465968586388,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Clients/AutoShardedClient/AutoShardedClient.md",
+                    "file": "discord/Abstract Base Classes/Snowflake/Snowflake.md",
                     "mode": "preview"
                   }
                 },
-                "group": "7acf75ce93ac011c"
+                "group": "736471ff0f9700c3"
               }
             ],
             "direction": "vertical"
           },
           {
-            "id": "a17a9a4dece72a18",
+            "id": "44d2fa1f2beeb3f7",
             "type": "leaf",
-            "dimension": 37.24899598393574,
             "state": {
               "type": "graph",
               "state": {}
@@ -78,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ShardInfo",
+                "query": "Object",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Clients/AutoShardedClient/AutoShardedClient.md",
+                "file": "discord/Abstract Base Classes/Snowflake/Snowflake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc144db1ab903f21",
+  "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
+    "discord/Abstract Base Classes/Snowflake/Snowflake.md",
+    "discord/Abstract Base Classes/snowflake/id.md",
+    "discord/Abstract Base Classes/snowflake/created_at.md",
+    "discord/Abstract Base Classes/Abstract Base Classes.md",
+    "discord/Abstract Base Classes/GuildChannel/GuildChannel.md",
     "discord/Clients/AutoShardedClient/AutoShardedClient.md",
     "discord/Clients/AutoShardedClient/request_offline_members.md",
     "discord/Clients/AutoShardedClient/is_ws_ratelimited.md",
     "discord/Clients/AutoShardedClient/get_shard.md",
-    "discord/Clients/AutoShardedClient/connect.md",
-    "discord/Clients/AutoShardedClient/close.md",
-    "discord/Clients/AutoShardedClient/change_presence.md",
-    "discord/Enumerations/Status.md",
-    "discord/Clients/AutoShardedClient/shards.md",
-    "discord/Clients/AutoShardedClient/shard_ids.md"
+    "discord/Clients/AutoShardedClient/connect.md"
   ]
 }
