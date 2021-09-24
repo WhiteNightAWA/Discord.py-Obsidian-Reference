@@ -10,16 +10,16 @@
           {
             "id": "25e67110da5a9d3d",
             "type": "split",
-            "dimension": 53.0552861299709,
+            "dimension": 67.41028128031039,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
                 "type": "leaf",
-                "dimension": 51.07632093933464,
+                "dimension": 60.98901098901099,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Data Classes/Object/Object.md",
+                    "file": "discord/Data Classes/Activity/Activity.md",
                     "mode": "source"
                   }
                 },
@@ -28,11 +28,11 @@
               {
                 "id": "57ffe75df5f630be",
                 "type": "leaf",
-                "dimension": 48.92367906066536,
+                "dimension": 39.010989010989015,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Data Classes/Object/Object.md",
+                    "file": "discord/Data Classes/Activity/Activity.md",
                     "mode": "preview"
                   }
                 },
@@ -44,7 +44,7 @@
           {
             "id": "4aace8012ec75460",
             "type": "leaf",
-            "dimension": 46.9447138700291,
+            "dimension": 32.58971871968962,
             "pinned": true,
             "state": {
               "type": "graph",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Data Classes/Object/Object.md",
+                "file": "discord/Data Classes/Activity/Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
-    "discord/Data Classes/Object/Object.md",
-    "discord/Data Classes/Data Classes.md",
-    "discord/Async Iterator/Async Iterator.md",
-    "discord/Application Info/Application Info.md",
-    "discord/Abstract Base Classes/Abstract Base Classes.md",
-    "discord/Audit Log Data/Audit Log Data.md",
-    "discord/Clients/Clients.md",
-    "discord/Audit Log Data/AuditLogDiff/AuditLogDiff.md",
-    "discord/Enumerations/VoiceRegion.md",
-    "discord/Audit Log Data/AuditLogDiff/widget_enabled.md"
+    "discord/Data Classes/Activity/Activity.md",
+    "discord/Data Classes/Activity/url.md",
+    "discord/Data Classes/Activity/type.md",
+    "discord/Data Classes/Activity/timestamps.md",
+    "discord/Data Classes/Activity/state.md",
+    "discord/Data Classes/Activity/start.md",
+    "discord/Data Classes/Activity/large_image_text.md",
+    "discord/Data Classes/Activity/end.md",
+    "discord/Data Classes/Activity/small_image_url.md",
+    "discord/Data Classes/Activity/small_image_text.md"
   ]
 }
