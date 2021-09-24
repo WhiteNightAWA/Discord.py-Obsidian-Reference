@@ -8,5 +8,5 @@ async for elem in channel.history():
 ```
 Certain utilities make working with async iterators easier, detailed below.
 ****
-- [AsyncIterator](discord/Async%20Iterator/AsyncIterator/AsyncIterator)
+- ## [AsyncIterator](discord/Async%20Iterator/AsyncIterator/AsyncIterator)
 

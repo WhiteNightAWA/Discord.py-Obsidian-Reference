@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Audit Log Data/Audit Log Data.md",
+                    "file": "discord/Async Iterator/Async Iterator.md",
                     "mode": "source"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Audit Log Data/Audit Log Data.md",
+                    "file": "discord/Async Iterator/Async Iterator.md",
                     "mode": "preview"
                   }
                 },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Audit Log Data/Audit Log Data.md",
+                "file": "discord/Async Iterator/Async Iterator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
+    "discord/Async Iterator/Async Iterator.md",
+    "discord/Application Info/Application Info.md",
+    "discord/Abstract Base Classes/Abstract Base Classes.md",
     "discord/Audit Log Data/Audit Log Data.md",
+    "discord/Clients/Clients.md",
     "discord/Audit Log Data/AuditLogDiff/AuditLogDiff.md",
     "discord/Enumerations/VoiceRegion.md",
     "discord/Audit Log Data/AuditLogDiff/widget_enabled.md",
     "discord/Audit Log Data/AuditLogDiff/widget_channel.md",
-    "discord/Data Classes/Object/Object.md",
-    "discord/Audit Log Data/AuditLogDiff/verification_level.md",
-    "discord/Enumerations.md",
-    "discord/Audit Log Data/AuditLogDiff/vanity_url_code.md",
-    "discord/Audit Log Data/AuditLogDiff/uses.md"
+    "discord/Data Classes/Object/Object.md"
   ]
 }

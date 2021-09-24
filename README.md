@@ -14,7 +14,7 @@ An API Reference base on Obsidian for Discord.py
 	- [ ] Profile
 	- [ ] Enumerations
 	- [x] Async Iterator
-	- [ ] Audit Log Data
+	- [x] Audit Log Data
 	- [ ] Webook Support
 	- [x] Abstract Base Classes
 	- [ ] Discord Models
