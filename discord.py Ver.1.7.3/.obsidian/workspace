@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Application Info/Application Info.md",
+                    "file": "discord/API Reference.md",
                     "mode": "source"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Application Info/Application Info.md",
+                    "file": "discord/API Reference.md",
                     "mode": "preview"
                   }
                 },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Application Info/Application Info.md",
+                "file": "discord/API Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +127,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69d8d28341cc95ac",
+  "active": "57ffe75df5f630be",
   "lastOpenFiles": [
+    "discord/API Reference.md",
     "discord/Application Info/Application Info.md",
     "discord/Application Info/TeamMember/team.md",
     "discord/Application Info/TeamMember/TeamMember.md",
@@ -137,7 +138,6 @@
     "discord/Application Info/TeamMember/id.md",
     "discord/Application Info/TeamMember/discriminator.md",
     "discord/Application Info/Team/Team.md",
-    "discord/Application Info/Team/icon.md",
-    "discord/Application Info/TeamMember/bot.md"
+    "discord/Application Info/Team/icon.md"
   ]
 }
