@@ -10,7 +10,7 @@
           {
             "id": "25e67110da5a9d3d",
             "type": "split",
-            "dimension": 19.398642095053344,
+            "dimension": 65.08244422890398,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/API Reference.md",
+                    "file": "discord/Async Iterator/AsyncIterator/chunk.md",
                     "mode": "source"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/API Reference.md",
+                    "file": "discord/Async Iterator/AsyncIterator/chunk.md",
                     "mode": "preview"
                   }
                 },
@@ -44,7 +44,7 @@
           {
             "id": "4aace8012ec75460",
             "type": "leaf",
-            "dimension": 80.60135790494665,
+            "dimension": 34.917555771096026,
             "pinned": true,
             "state": {
               "type": "graph",
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "126428805459837d",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/API Reference.md",
+                "file": "discord/Async Iterator/AsyncIterator/chunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57ffe75df5f630be",
+  "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
-    "discord/API Reference.md",
-    "discord/Application Info/Application Info.md",
-    "discord/Application Info/TeamMember/team.md",
-    "discord/Application Info/TeamMember/TeamMember.md",
-    "discord/Application Info/TeamMember/name.md",
-    "discord/Application Info/TeamMember/membership_state.md",
-    "discord/Application Info/TeamMember/id.md",
-    "discord/Application Info/TeamMember/discriminator.md",
-    "discord/Application Info/Team/Team.md",
-    "discord/Application Info/Team/icon.md"
+    "discord/Async Iterator/AsyncIterator/chunk.md",
+    "discord/Async Iterator/AsyncIterator/filter.md",
+    "discord/Async Iterator/AsyncIterator/find.md",
+    "discord/Async Iterator/Async Iterator.md",
+    "discord/Async Iterator/AsyncIterator/AsyncIterator.md",
+    "discord/Async Iterator/AsyncIterator/map.md",
+    "discord/Async Iterator/AsyncIterator/get.md",
+    "discord/Async Iterator/AsyncIterator/flatten.md",
+    "discord/Async Iterator/AsyncIterator/next.md",
+    "discord/Abstract Base Classes/Messageable/history.md"
   ]
 }

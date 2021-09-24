@@ -1,6 +1,6 @@
 ### `async for ... in` history(_\*_, *limit=100*, *before=None*, *after=None*, *around=None*, *oldest_first=None*)[](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.abc.Messageable.history)
 
-Returns an [AsyncIterator](discord/Async%20Iterator/AsyncIterator) that enables receiving the destination’s message history.
+Returns an [AsyncIterator](discord/Async%20Iterator/AsyncIterator/AsyncIterator) that enables receiving the destination’s message history.
 
 You must have `read_message_history` permissions to use this.
 
