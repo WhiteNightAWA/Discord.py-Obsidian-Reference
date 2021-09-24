@@ -1,0 +1,8 @@
+### reason [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#discord.AuditLogEntry.reason)
+
+The reason this action was done.
+
+- **Type**
+
+	- Optional\[ [str](https://docs.python.org/3/library/stdtypes.html#str "(in Python v3.9)") ]
+
