@@ -1,7 +1,7 @@
 ## AppInfo [](https://discordpy.readthedocs.io/en/v1.7.3/api.html#appinfo)
 Represents the application info for the bot provided by Discord.
 ****
-> `class` discord.**AppInfo**
+> `class` discord.**AppInfo**[[discord/Application Info/Team/Team]]
 
 Attributes | | Methods
 :--- | ---: | :---

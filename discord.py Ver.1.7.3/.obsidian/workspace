@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Application Info/AppInfo/AppInfo.md",
+                    "file": "discord/Application Info/Application Info.md",
                     "mode": "source"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Application Info/AppInfo/AppInfo.md",
+                    "file": "discord/Application Info/Application Info.md",
                     "mode": "preview"
                   }
                 },
@@ -45,9 +45,11 @@
             "id": "4aace8012ec75460",
             "type": "leaf",
             "dimension": 37.07964601769911,
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ],
@@ -78,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Object",
+                "query": "Supported Operations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Application Info/AppInfo/AppInfo.md",
+                "file": "discord/Application Info/Application Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +129,15 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
-    "discord/Application Info/AppInfo/AppInfo.md",
-    "discord/Application Info/AppInfo/icon_url_as.md",
-    "discord/Application Info/AppInfo/cover_image_url_as.md",
-    "discord/Application Info/AppInfo/verify_key.md",
-    "discord/Application Info/AppInfo/team.md",
+    "discord/Application Info/Application Info.md",
+    "discord/Application Info/TeamMember/team.md",
+    "discord/Application Info/TeamMember/TeamMember.md",
+    "discord/Application Info/TeamMember/name.md",
+    "discord/Application Info/TeamMember/membership_state.md",
+    "discord/Application Info/TeamMember/id.md",
+    "discord/Application Info/TeamMember/discriminator.md",
     "discord/Application Info/Team/Team.md",
-    "discord/Application Info/AppInfo/summary.md",
-    "discord/Application Info/AppInfo/slug.md",
-    "discord/Application Info/AppInfo/rpc_origins.md",
-    "discord/Application Info/AppInfo/primary_sku_id.md"
+    "discord/Application Info/Team/icon.md",
+    "discord/Application Info/TeamMember/bot.md"
   ]
 }
