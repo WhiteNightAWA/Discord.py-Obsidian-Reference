@@ -10,7 +10,7 @@
           {
             "id": "25e67110da5a9d3d",
             "type": "split",
-            "dimension": 73.22987390882638,
+            "dimension": 53.0552861299709,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Async Iterator/Async Iterator.md",
+                    "file": "discord/Data Classes/Object/Object.md",
                     "mode": "source"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "discord/Async Iterator/Async Iterator.md",
+                    "file": "discord/Data Classes/Object/Object.md",
                     "mode": "preview"
                   }
                 },
@@ -44,7 +44,7 @@
           {
             "id": "4aace8012ec75460",
             "type": "leaf",
-            "dimension": 26.77012609117362,
+            "dimension": 46.9447138700291,
             "pinned": true,
             "state": {
               "type": "graph",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord/Async Iterator/Async Iterator.md",
+                "file": "discord/Data Classes/Object/Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,8 @@
   },
   "active": "69d8d28341cc95ac",
   "lastOpenFiles": [
+    "discord/Data Classes/Object/Object.md",
+    "discord/Data Classes/Data Classes.md",
     "discord/Async Iterator/Async Iterator.md",
     "discord/Application Info/Application Info.md",
     "discord/Abstract Base Classes/Abstract Base Classes.md",
@@ -136,8 +138,6 @@
     "discord/Clients/Clients.md",
     "discord/Audit Log Data/AuditLogDiff/AuditLogDiff.md",
     "discord/Enumerations/VoiceRegion.md",
-    "discord/Audit Log Data/AuditLogDiff/widget_enabled.md",
-    "discord/Audit Log Data/AuditLogDiff/widget_channel.md",
-    "discord/Data Classes/Object/Object.md"
+    "discord/Audit Log Data/AuditLogDiff/widget_enabled.md"
   ]
 }

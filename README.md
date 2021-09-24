@@ -19,5 +19,5 @@ An API Reference base on Obsidian for Discord.py
 	- [x] Abstract Base Classes
 	- [ ] Discord Models
 	- [ ] Data Classes
-	- [ ] Exceptions
+	- [x] Exceptions
 
