@@ -10,7 +10,7 @@
           {
             "id": "25e67110da5a9d3d",
             "type": "split",
-            "dimension": 62.92035398230089,
+            "dimension": 19.398642095053344,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
@@ -44,7 +44,7 @@
           {
             "id": "4aace8012ec75460",
             "type": "leaf",
-            "dimension": 37.07964601769911,
+            "dimension": 80.60135790494665,
             "pinned": true,
             "state": {
               "type": "graph",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "126428805459837d",
