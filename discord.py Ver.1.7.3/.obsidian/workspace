@@ -10,7 +10,7 @@
           {
             "id": "25e67110da5a9d3d",
             "type": "split",
-            "dimension": 67.41028128031039,
+            "dimension": 19.398642095053344,
             "children": [
               {
                 "id": "69d8d28341cc95ac",
@@ -44,7 +44,7 @@
           {
             "id": "4aace8012ec75460",
             "type": "leaf",
-            "dimension": 32.58971871968962,
+            "dimension": 80.60135790494665,
             "pinned": true,
             "state": {
               "type": "graph",
